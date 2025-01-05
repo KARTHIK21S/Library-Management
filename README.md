@@ -1,2 +1,28 @@
 # Library-Management-PHP
  
+FOR USER'S LOGIN         
+
+  username = demo
+  password = demo
+
+
+FOR ADMIN'S LOGIN
+
+  username = admin
+  password = admin
+
+
+
+DON'T FORGET TO CREATE A DATABASE  AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+
+
+
+#THANK YOU FOR DOWNLOADING
